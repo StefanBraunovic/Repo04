@@ -6,7 +6,7 @@ function main(numOne,numTwo){
 
 
 
-    return myQuotient.toFixed(2);
+    return myQuotient.toFixed(1);
 }
 
 console.log(main(5.0,2.0));
