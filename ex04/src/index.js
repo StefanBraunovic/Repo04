@@ -1,8 +1,11 @@
 function main(){
 
-    var  myDecimal=1.2;
+    var  myDecimal=1.4;
 
-    var myDecimalE= 0.00254;
+    var myDecimalE= 2.54e-3;
+ 
+
+    
 
     return{
         myDecimal,
