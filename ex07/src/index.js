@@ -1,10 +1,6 @@
 function main(numOne,numTwo){
-
-
     var reminder = numOne%numTwo;
-
-
-    return reminder
+     return reminder
 }
 
 

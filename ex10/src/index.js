@@ -1,7 +1,7 @@
 function main(){
 
 var myFirstName="Stefan";
-var myFirstLast="Braunovic";
+var myLastName="Braunovic";
 var myHomeTown="Podgorica";
 
     return{
